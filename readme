@@ -1,0 +1,1 @@
+This is a pipelined convolusion implementation using 4 RAMs with DMA interfaces that crosses clock domains. 
